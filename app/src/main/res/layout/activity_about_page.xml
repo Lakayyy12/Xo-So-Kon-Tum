@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bbgc"
+    tools:context=".AboutPage">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:background="@drawable/customborder2"
+            android:src="@drawable/banner3"
+            android:scaleType="fitXY"
+            android:layout_marginTop="20dp"
+            android:layout_marginHorizontal="20dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="30dp"
+        android:text="Chơi xổ số Việt Nam"
+        android:textStyle="bold"
+        android:textSize="30dp"
+        android:textColor="@color/white"
+        android:shadowColor="#FF0202"
+        android:shadowRadius="5"
+        android:shadowDx="1"
+        android:shadowDy="1"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/abt1"
+            android:layout_marginTop="20dp"
+            android:layout_marginHorizontal="20dp"
+            android:textColor="@color/white"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:justificationMode="inter_word"
+            android:shadowColor="#FF0202"
+            android:shadowRadius="5"
+            android:shadowDx="1"
+            android:shadowDy="1"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/abt2"
+            android:layout_marginTop="20dp"
+            android:layout_marginHorizontal="20dp"
+            android:textColor="@color/white"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:justificationMode="inter_word"
+            android:shadowColor="#FF0202"
+            android:shadowRadius="5"
+            android:shadowDx="1"
+            android:shadowDy="1"/>
+
+        <Button
+            android:id="@+id/btnAb"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:textStyle="bold"
+            android:textSize="15dp"
+            android:textColor="@color/black"
+            android:text="TRỞ VỀ"
+            android:contentDescription="@string/close_button"
+            android:shadowColor="#FF0202"
+            android:shadowRadius="5"
+            android:shadowDx="1"
+            android:shadowDy="1"
+            android:backgroundTint="#CDB11B"/>
+
+
+    </LinearLayout>
+</androidx.core.widget.NestedScrollView>

@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Xổ số Kon Tum</string>
+
+    <string name="bgt1">1. Trò chơi xổ số</string>
+
+    <string name="bg1"> Trò chơi xổ số là trò chơi phổ biến nhất trong Xổ số Việt Nam, chiếm tới 40% tổng thu nhập từ xổ số. Vì nó tương đối đơn giản để chơi, nhiều người dân địa phương và thậm chí cả người nước ngoài tham gia trò chơi xổ số. Người chơi chọn số của họ và tiền thưởng được xác định bởi số lượng trùng khớp. Nếu không có ai trúng giải độc đắc, nó sẽ được chuyển sang kỳ quay thưởng tiếp theo, có khả năng tăng giải thưởng lên hàng tỷ đô la!</string>
+
+<string name="mt1">Chọn một vé số để chơi</string>
+    <string name="mt2">Chọn số của bạn</string>
+    <string name="mt3">Mua một vé</string>
+    <string name="mt4">Kiểm tra số của bạn</string>
+    <string name="mt5">Nhận giải thưởng của bạn</string>
+
+    <string name="mt11">Nếu bạn không biết bắt đầu từ đâu, việc lựa chọn trò chơi chính xác từ hàng ngàn giải xổ số trên khắp thế giới có thể là quá sức, nhưng sau khi bạn nắm được những kiến thức cơ bản, bạn sẽ có đủ tự tin để chọn trò chơi phù hợp cho mình.</string>
+<string name="mt22">Sử dụng các tùy chọn chọn nhanh hoặc chọn dễ cho các số được chọn ngẫu nhiên là cách đơn giản nhất để chọn số lotto của bạn. Bạn nên kiểm tra số liệu thống kê nếu bạn có con số may mắn yêu thích.
+Ngay cả khi tất cả các con số đều có cùng tỷ lệ trúng thưởng, một số được rút ra ít thường xuyên hơn những con số khác. Kiểm tra xem có bất kỳ con số nào trong số này là con số may mắn của bạn không.</string>
+<string name="mt33">Mặc dù tùy chọn này vẫn có sẵn, những ngày mua vé số chỉ trong một cửa hàng đã qua lâu. Phương thức thuận tiện nhất là mua vé trực tuyến. Nhiều xổ số chính thức bán vé trực tuyến thông qua các trang web hoặc ứng dụng di động, nhưng bạn phải là công dân của quốc gia được đề cập.</string>
+<string name="mt44">Nhiều chương trình rút thăm được chiếu trên truyền hình; tuy nhiên, việc kiểm tra các con số trên một trang web hoặc một ứng dụng di động có thể thuận tiện hơn. Mỗi xổ số có thời gian quay thưởng riêng và bằng cách chơi trực tuyến từ một múi giờ khác nhau, bạn có thể chơi trong đêm khuya.</string>
+<string name="mt55">Bạn đã kiểm tra lại số của mình và phát hiện ra rằng bạn đã thắng! Xin chúc mừng. Quá trình xác nhận giải thưởng của bạn rất đơn giản.
+Hãy lưu ý rằng mọi xổ số đều có thời hạn thanh toán, thường là từ 30 đến 180 ngày. Các giải thưởng nhỏ hơn có thể được nhận từ người bán hoặc được tự động chuyển cho bạn khi bạn chơi trực tuyến.</string>
+    <string name="close_button" />
+
+    <string name="abt1">Xổ số Bến Tre, Xổ số Vũng Tàu và Xổ số Liêu đều do Xổ số kiến thiết Miền Nam điều hành. Xổ số Quảng Ninh do Hội đồng xổ số miền Bắc quản lý, trong khi xổ số Đắk Lắk và Quảng Nam do Hội đồng xổ số miền Trung quản lý.</string>
+<string name="abt2">Một trong những trò tiêu khiển yêu thích của người dân là chơi xổ số. Những ai muốn hòa mình trọn vẹn vào văn hóa Việt Nam nên học cách chơi xổ số truyền thống của Việt Nam, đặc biệt là khi những người buôn bán xổ số tràn ngập khắp các con phố. Mỗi ngày trước 3 giờ chiều, những người bán hàng này phải bán hết vé. Những cá nhân này bán vé với lợi nhuận vài xu hoặc 10% giá vé. Mỗi chiếc vé có giá 10.000 đồng Việt Nam, nhưng đừng ngạc nhiên nếu nó được bán với giá 12.000 đồng để trang trải cuộc sống. Phần lớn những người bán vé là những người đang gặp khó khăn trong việc tìm kiếm một nghề nghiệp lâu dài hơn.</string>
+
+    <string name="g1">Chọn số ngẫu nhiên - Trong sổ xố, không có giấy gian lận.
+Bất kỳ ai tuyên bố có thể hack hệ thống rất có thể là một kẻ lừa đảo đang cố gắng bán cho bạn một cuốn sách.
+Phần lớn các lời khuyên về xổ số được tìm thấy trên internet đều vô lý tương tự.</string>
+    <string name="g2">Hoặc chọn số của riêng bạn - Richard Lustig disagrees with mathematicians who believe lotteries are based on random selection.
+Lustig, who has won seven lottery grand prizes in the United States, believes that picking your own numbers and repeating them offers you an advantage over other lottery players.</string>
+<string name="g3">Lập một "hồ sơ xổ số" và tổ chức nó - Mặc dù đặt cược vào tất cả các kết hợp số bằng tiền của chính bạn sẽ khiến bạn bị phá sản, nhưng có một cách thực tế hơn để làm điều đó: bằng cách gom tiền từ một nhóm lớn cá nhân</string>
+<string name="g4">Đặt cược vào những con số được rút ra thường xuyên - Bạn đã kiểm tra lại số của mình và phát hiện ra rằng bạn đã thắng! Xin chúc mừng. Quá trình xác nhận giải thưởng của bạn rất đơn giản.
+Hãy lưu ý rằng mọi xổ số đều có thời hạn thanh toán, thường là từ 30 đến 180 ngày. Các giải thưởng nhỏ hơn có thể được nhận từ người bán hoặc được tự động chuyển cho bạn khi bạn chơi trực tuyến.
+Có hai cách để trả giải độc đắc khổng lồ thực sự</string>
+    <string name="splash_screen">splash_screen</string>
+
+
+</resources>
